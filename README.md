@@ -8,7 +8,7 @@ for use in your Rails 4+ application.
 
 Add this line to your application's Gemfile:
 
-    gem 'themify-icons-rails'
+     gem 'themify-icons-rails' , github: 'scratch-soft/themify-icons-rails'
 
 And then execute:
 
